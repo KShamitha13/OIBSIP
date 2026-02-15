@@ -43,5 +43,5 @@ This report provides a detailed analysis of common network security threats, exp
 
 ---
 
-## 🌍 Real-World Case Study: The Morris Worm
+##  Real-World Case Study: The Morris Worm
 One of the first recognized DoS attacks in history occurred in 1988. The **Morris Worm** was designed to gauge the size of the internet but had a bug that caused it to replicate uncontrollably, crashing a significant portion of the early internet's servers.
